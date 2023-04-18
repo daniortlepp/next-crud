@@ -1,2 +1,2 @@
 # next-crud
-CRUD com ReactJS, Node.js e Firebase
+CRUD de Clientes com ReactJS, Node.js e Firebase
